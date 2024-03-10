@@ -1,2 +1,3 @@
 # My-New-Project
-This is my first Git Repository.
+This is my first Git Repository. 
+author - Vivek pal 
